@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitSorting", "FruitSorting\FruitSorting.csproj", "{D5E1BBD7-7A33-4904-A89A-3194FB434CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E1BBD7-7A33-4904-A89A-3194FB434CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E1BBD7-7A33-4904-A89A-3194FB434CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E1BBD7-7A33-4904-A89A-3194FB434CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E1BBD7-7A33-4904-A89A-3194FB434CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4A9A1C1-C832-4807-8A7C-3955D16F964B}
+	EndGlobalSection
+EndGlobal
